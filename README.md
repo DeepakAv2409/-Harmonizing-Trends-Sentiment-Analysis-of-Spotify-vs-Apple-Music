@@ -1,4 +1,5 @@
-🎧 Harmonizing Trends: Sentiment Analysis of Spotify vs Apple Music
+# 🎧 Harmonizing Trends: Sentiment Analysis of Spotify vs Apple Music
+
 📘 Overview
 This project conducts a sentiment analysis on over 1,300 real user reviews to compare Spotify and Apple Music. As part of a business analytics coursework and competitive intelligence simulation, it applies text mining, data visualization, and statistical storytelling to provide actionable insights for product development, marketing, and customer satisfaction strategies.
 
